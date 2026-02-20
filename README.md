@@ -36,4 +36,6 @@ A) ->
 
 C) Inheritance
 
-B) Initia
+B) Initialize object
+
+B) java.sql
