@@ -42,8 +42,7 @@ B) java.sql
 
 SECTION-B
 1) Employee & Manager (Polymorphism Demonstration)
-
-class Employee {
+   class Employee {
     int id;
     String name;
     double salary;
@@ -90,7 +89,7 @@ public class Main {
     }
 }
 
-2) Lambda & Stream API Program
+3) Lambda & Stream API Program
 
 import java.util.*;
 import java.util.stream.*;
