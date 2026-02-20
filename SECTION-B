@@ -93,8 +93,8 @@ CREATE TABLE Student (
     marks DOUBLE
 );
 
-Java JDBC Program
 
+Java JDBC Program
 
 import java.sql.*;
 
